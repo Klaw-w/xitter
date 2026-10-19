@@ -1,41 +1,41 @@
 {
-  "version": 1,
-  "sequence": 7,
-  "instances": [
-    {
-      "id": "social.opsex.best",
-      "name": "Xitter",
-      "source_url": "https://github.com/gabytz777/xitter",
-      "public_key": "aE7RikVEmC2lKQPAkfVtNk1GpJtx87H7PYaLxHxbZTM",
-      "state": "active"
-    },
-    {
-      "id": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwww.wwwwwwwwwwwwwwwwwwwwwwwwwwwwww.blitz.cloud",
-      "name": "Xitter",
-      "source_url": "https://github.com/Xittered/xitter",
-      "public_key": "tnZP4rhsMAGOlkpWSf5ve_6HupiY7Vnhz7IRjiR4Sv4",
-      "state": "active"
-    },
-    {
-      "id": "xit.chococat.lol",
-      "name": "Xit",
-      "source_url": null,
-      "public_key": "C_9Cz5GkJjtSvWngLyVhfSTscLdcYo6Omx_EpSzQU5w",
-      "state": "active"
-    },
-    {
-      "id": "xitter.opuadm.com",
-      "name": "Xitter",
-      "source_url": "https://github.com/Xittered/xitter",
-      "public_key": "FDWBt_uXkSyKKyM2J_9bYLfryG5N0bHFseMprag-Qv8",
-      "state": "active"
-    },
-    {
-      "id": "xt.iambrdn.com",
-      "name": "xt.brdn",
-      "source_url": "https://github.com/braidenhxyz/xitter-compose",
-      "public_key": "eiI4EMp0bupFbJ7EKy5A_MIo_yvhRMbljYSnzozwXIY",
-      "state": "active"
-    }
-  ]
+	"version": 1,
+	"sequence": 7,
+	"instances": [
+		{
+			"id": "social.opsex.best",
+			"name": "Xitter",
+			"source_url": "https://github.com/gabytz777/xitter",
+			"public_key": "aE7RikVEmC2lKQPAkfVtNk1GpJtx87H7PYaLxHxbZTM",
+			"state": "active"
+		},
+		{
+			"id": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwww.wwwwwwwwwwwwwwwwwwwwwwwwwwwwww.blitz.cloud",
+			"name": "Xitter",
+			"source_url": "https://github.com/Xittered/xitter",
+			"public_key": "tnZP4rhsMAGOlkpWSf5ve_6HupiY7Vnhz7IRjiR4Sv4",
+			"state": "active"
+		},
+		{
+			"id": "xit.chococat.lol",
+			"name": "Xit",
+			"source_url": null,
+			"public_key": "C_9Cz5GkJjtSvWngLyVhfSTscLdcYo6Omx_EpSzQU5w",
+			"state": "active"
+		},
+		{
+			"id": "xitter.opuadm.com",
+			"name": "Xitter",
+			"source_url": "https://github.com/Xittered/xitter",
+			"public_key": "FDWBt_uXkSyKKyM2J_9bYLfryG5N0bHFseMprag-Qv8",
+			"state": "active"
+		},
+		{
+			"id": "xt.iambrdn.com",
+			"name": "xt.brdn",
+			"source_url": "https://github.com/braidenhxyz/xitter-compose",
+			"public_key": "eiI4EMp0bupFbJ7EKy5A_MIo_yvhRMbljYSnzozwXIY",
+			"state": "active"
+		}
+	]
 }
